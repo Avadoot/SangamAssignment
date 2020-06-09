@@ -1,0 +1,10 @@
+2020-06-09 15:10:13 INFO  TestBase:48 - Running Step: clean_install_and_launch_demo_app()
+2020-06-09 15:10:13 INFO  TestBase:49 - Running Tests On Android Platform.
+2020-06-09 15:10:37 INFO  TestBase:68 - Starting Android Driver.
+2020-06-09 15:10:45 INFO  TestBase:66 - Getting Text From locator: Please specify Date of Birth
+2020-06-09 15:10:46 INFO  TestBase:66 - Getting Text From locator: Community Eg. Brahmin Please specify Caste / Community
+2020-06-09 15:10:46 INFO  TestBase:61 - Scenario Passed: cucumber.runtime.ScenarioImpl
+2020-06-09 15:10:48 INFO  TestBase:48 - Running Step: clean_install_and_launch_demo_app()
+2020-06-09 15:11:01 INFO  TestBase:52 - Clicking on element: class io.appium.java_client.android.AndroidElement
+2020-06-09 15:11:03 INFO  TestBase:52 - Clicking on element: class io.appium.java_client.android.AndroidElement
+2020-06-09 15:11:06 INFO  TestBase:52 - Clicking on element: class io.appium.java_client.android.AndroidElement

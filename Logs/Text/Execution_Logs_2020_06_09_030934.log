@@ -1,0 +1,3 @@
+2020-06-09 15:09:34 INFO  TestBase:48 - Running Step: clean_install_and_launch_demo_app()
+2020-06-09 15:09:34 INFO  TestBase:49 - Running Tests On Android Platform.
+2020-06-09 15:10:00 INFO  TestBase:68 - Starting Android Driver.
